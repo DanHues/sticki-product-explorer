@@ -1,0 +1,127 @@
+{
+  "collections": {
+    "series3": "Series 3 / Sticki Mates",
+    "minecraft": "Minecraft",
+    "aphmau": "Aphmau",
+    "stitch2": "Stitch Series 2"
+  },
+  "products": [
+    {
+      "id": "s3-mates-capsule",
+      "collection": "series3",
+      "name": "Sticki Mates Mystery Capsule",
+      "retailer": "target",
+      "url": "https://www.target.com/p/-/A-95000314",
+      "image": "s3-mates-capsule.jpg",
+      "description": "A surprise mini character that dispenses stickers."
+    },
+    {
+      "id": "s3-mates-axie-pandi",
+      "collection": "series3",
+      "name": "Sticki Mates · Happy Axie & Pandi",
+      "retailer": "amazon",
+      "url": "https://www.amazon.com/dp/B0GTJYL9H6",
+      "image": "s3-mates-axie-pandi.jpg",
+      "description": "Two little companions. Twice the personality."
+    },
+    {
+      "id": "s3-book",
+      "collection": "series3",
+      "name": "Sticki Book · Volume 3",
+      "retailer": "amazon",
+      "url": "https://www.amazon.com/dp/B0GTK55JWX",
+      "image": "s3-book.jpg",
+      "description": "A home for your Series 3 sticker collection."
+    },
+    {
+      "id": "s3-station",
+      "collection": "series3",
+      "name": "Sticki Station · Series 3",
+      "retailer": "amazon",
+      "url": "https://www.amazon.com/dp/B0GVBHWS9N",
+      "image": "s3-station.jpg",
+      "description": "Make, customize, and share your Sticki style."
+    },
+    {
+      "id": "s3-band-capsule",
+      "collection": "series3",
+      "name": "Sticki Bands · Series 3 Capsule",
+      "retailer": "target",
+      "url": "https://www.target.com/p/-/A-95269871",
+      "image": "s3-band-capsule.jpg",
+      "description": "Unbox a mystery bracelet and new sticker favorites."
+    },
+    {
+      "id": "mc-capsule",
+      "collection": "minecraft",
+      "name": "Minecraft Mystery Capsule",
+      "retailer": "walmart",
+      "url": "https://www.walmart.com/ip/18829354176",
+      "image": "mc-capsule.png",
+      "description": "A block-shaped surprise, ready to wear and share."
+    },
+    {
+      "id": "mc-book",
+      "collection": "minecraft",
+      "name": "Minecraft Collector’s Book",
+      "retailer": "amazon",
+      "url": "https://www.amazon.com/dp/B0GTK353W8",
+      "image": "mc-book.jpg",
+      "description": "Build your collection, one sticker at a time."
+    },
+    {
+      "id": "mc-clip",
+      "collection": "minecraft",
+      "name": "Minecraft Enderman Clip & Wristband",
+      "retailer": "amazon",
+      "url": "https://www.amazon.com/dp/B0GTJSSW1S",
+      "image": "mc-clip.jpg",
+      "description": "Take Enderman along on your next adventure."
+    },
+    {
+      "id": "aph-capsule",
+      "collection": "aphmau",
+      "name": "Aphmau Mystery Capsule",
+      "retailer": "walmart",
+      "url": "https://www.walmart.com/ip/17881902596",
+      "image": "aph-capsule.jpg",
+      "description": "Unbox a little mystery from Aphmau’s world."
+    },
+    {
+      "id": "aph-pendant",
+      "collection": "aphmau",
+      "name": "Aphmau Pendant & Bracelet",
+      "retailer": "amazon",
+      "url": "https://www.amazon.com/dp/B0FC7YTZ98",
+      "image": "aph-pendant.jpg",
+      "description": "Cat-inspired charm with stickers to share."
+    },
+    {
+      "id": "stitch-capsule",
+      "collection": "stitch2",
+      "name": "Stitch Series 2 Capsule",
+      "retailer": "target",
+      "url": "https://www.target.com/p/-/A-95000325",
+      "image": "stitch-capsule.jpg",
+      "description": "A surprise bracelet with a little island spirit."
+    },
+    {
+      "id": "stitch-pendant",
+      "collection": "stitch2",
+      "name": "Stitch Series 2 Pendant & Bracelet",
+      "retailer": "amazon",
+      "url": "https://www.amazon.com/dp/B0GTK54CDG",
+      "image": "stitch-pendant.jpg",
+      "description": "Your favorite little troublemaker, on the go."
+    },
+    {
+      "id": "angel-pendant",
+      "collection": "stitch2",
+      "name": "Angel Series 2 Pendant & Bracelet",
+      "retailer": "amazon",
+      "url": "https://www.amazon.com/dp/B0GTJZ1524",
+      "image": "angel-pendant.jpg",
+      "description": "Add a little Angel to your Sticki collection."
+    }
+  ]
+}
