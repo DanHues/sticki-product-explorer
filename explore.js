@@ -1,4 +1,4 @@
-const API='https://sticki-con-redemption-danhues.earthyplume72.chatgpt.site/api/product-event';
+const API='https://sticki-con-redemption-danhues.danhues.chatgpt.site/api/product-event';
 const local=location.hostname==='127.0.0.1'||location.hostname==='localhost';
 const storage={get(key){try{return localStorage.getItem(key)}catch{return null}},set(key,value){try{localStorage.setItem(key,value)}catch{}}};
 const key='sticki-explorer-visitor-v1';
